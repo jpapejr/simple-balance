@@ -1,0 +1,13 @@
+{
+	"name": "simple-balance",
+	"version": "0.2.0",
+	"description": "A simple request balancer for http requests",
+	"dependencies": {
+
+	},
+	"engines": {
+		"node": "0.10.33"
+	},
+	"repository": {},
+	"main": "./balance.js"
+}
